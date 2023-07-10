@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nos vemos, saludos...
+=======
+hola a todos
+>>>>>>> c3cb36cd2f34d4ffc7951864ef2b9de176a273af
